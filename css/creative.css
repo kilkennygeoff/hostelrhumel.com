@@ -90,7 +90,7 @@ body {
     color: #AE0B32;
 	min-width: 250px;
 	min-height: 50px;
-	background-image: url(../img/logotipo_wanderlust-gray-300.png);
+	background-image: url(../img/logotipo_rhumel-blue-300.png);
 	background-repeat:no-repeat;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
     #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -136,7 +136,7 @@ body {
         background-color: #EDEEF0; }
         #mainNav.navbar-shrink .navbar-brand {
           font-size: 16px;
-		  background-image: url(../img/logotipo_wanderlust-gray-300.png);
+		  background-image: url(../img/logotipo_rhumel-blue-300.png);
           color: #AE0B32; }
           #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
             color: #AE0B32; }
